@@ -1,5 +1,8 @@
 # GX Titanium 2122A Bridge Mode
 
+## Version:
+**HW: C40-210**, **SW: T2122-V1.24A**
+
 ## Steps
 
 1. Remove the "disabled" attribute manually from input fields and buttons or use JavaScript code to remove it dynamically. (I have created a basic Chrome extension to remove the "disabled" attribute from all HTML elements when I visit the router page.)
